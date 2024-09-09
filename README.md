@@ -165,3 +165,27 @@ From this distribution, we can see:
 <img width="800" alt="" src="https://github.com/user-attachments/assets/f9b5d003-74a7-403c-af2a-98747b9172b5">
 
 * Employment length shows a similar distribution for defaults and non-defaults, indicating it may not significantly influence loan default rates
+
+## III. Find the Best Model
+### Confusion Matrix
+#### LogisticRegression
+
+<img width="500" alt="" src="https://github.com/user-attachments/assets/8521b536-6769-413b-ac1d-e5075d2fe2bc">
+
+#### Random Forest Classifier
+
+<img width="500" alt="" src="https://github.com/user-attachments/assets/77d8bdd8-635f-4472-90a4-7b566ea8733e">
+
+#### XGBoot
+
+<img width="500" alt="" src="https://github.com/user-attachments/assets/a9e7960b-d21e-4ad4-80f3-2eb30a386643">
+
+### ROC
+
+<img width="800" alt="" src="https://github.com/user-attachments/assets/6874e30e-6925-41b9-88c3-ff7e54ba6f24">
+
+## III. Calculate Expected Loss
+
+<img width="500" alt="" src="https://github.com/user-attachments/assets/085b9552-ef5e-4fbd-94e1-999cd3c63332">
+
+<img width="500" alt="" src="https://github.com/user-attachments/assets/8a03da32-68aa-45b9-87b8-f7a4cd268693">
