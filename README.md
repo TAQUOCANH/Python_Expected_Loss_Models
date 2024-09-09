@@ -104,7 +104,7 @@
 </ul>
 
 ### 2. EDA
-#### Numeric Features:
+#### 2.1 Numeric Features:
 
 <img width="800" alt="" src="https://github.com/user-attachments/assets/50c8bc68-d693-4972-b827-817526b42d98">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/bc980bfc-759c-4fe4-85c6-e4868444fee6">
@@ -114,3 +114,7 @@ From this distribution, we can see:
 * int_rate:  mostly between 5% and 20%, with a tail extending beyond 25%
 * annual_inc: annual_inc are mostly below 200000
 * dti: dti are mostly below 50, with some values extending up to 1,000
+
+#### 2.2 Category Features:
+
+##### Application_type:
