@@ -118,3 +118,8 @@ From this distribution, we can see:
 #### 2.2 Category Features:
 
 ##### Application_type:
+
+<img width="800" alt="" src="https://github.com/user-attachments/assets/4b8ee450-478e-45bf-9138-235acfed368d">
+<img width="800" alt="" src="https://github.com/user-attachments/assets/20f0d6f4-9989-4339-8a9a-8bb540a6544d">
+
+* The majority of loans are from individual applicants, with a higher default rate (13.43%) compared to joint applications (9.72%), though individual loans dominate the dataset.
