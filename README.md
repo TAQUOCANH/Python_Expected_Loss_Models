@@ -186,6 +186,7 @@ From this distribution, we can see:
 
 ## III. Calculate Expected Loss
 
-<img width="500" alt="" src="https://github.com/user-attachments/assets/085b9552-ef5e-4fbd-94e1-999cd3c63332">
+<img width="800" alt="" src="https://github.com/user-attachments/assets/085b9552-ef5e-4fbd-94e1-999cd3c63332">
+
 
 <img width="500" alt="" src="https://github.com/user-attachments/assets/8a03da32-68aa-45b9-87b8-f7a4cd268693">
