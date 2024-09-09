@@ -40,27 +40,24 @@
     </tr>
     <tr>
       <td>int_rate</td>
-      <td>Interest Rate on the loan</td>
+      <td>Interest Rate on the loan.</td>
     </tr>
-   
     <tr>
       <td>grade</td>
-      <td>LC assigned loan grade</td>
+      <td>LC assigned loan grade.</td>
     </tr>
-   
     <tr>
       <td>emp_length</td>
       <td>Employment length in years. Possible values are between 0 and 10 where 0 means less than one year and 10 means ten or more years.</td>
     </tr>
     <tr>
       <td>home_ownership</td>
-      <td>The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER</td>
+      <td>The home ownership status provided by the borrower during registration or obtained from the credit report. Our values are: RENT, OWN, MORTGAGE, OTHER.</td>
     </tr>
     <tr>
       <td>annual_inc</td>
       <td>The self-reported annual income provided by the borrower during registration.</td>
     </tr>
-
     <tr>
       <td>issue_d</td>
       <td>The month which the loan was funded.</td>
@@ -73,7 +70,6 @@
       <td>purpose</td>
       <td>A category provided by the borrower for the loan request.</td>
     </tr>
- 
     <tr>
       <td>dti</td>
       <td>A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.</td>
@@ -82,20 +78,18 @@
       <td>earliest_cr_line</td>
       <td>The month the borrower's earliest reported credit line was opened.</td>
     </tr>
-
     <tr>
       <td>application_type</td>
       <td>Indicates whether the loan is an individual application or a joint application with two co-borrowers.</td>
     </tr>
-
     <tr>
       <td>pub_rec_bankruptcies</td>
       <td>Number of public record bankruptcies.</td>
     </tr>
-    
     <tr>
       <td>chargeoff_within_12_mths</td>
       <td>Number of charge-offs within 12 months.</td>
     </tr>
   </tbody>
 </table>
+
