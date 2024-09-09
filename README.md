@@ -119,49 +119,49 @@ From this distribution, we can see:
 
 ##### Application_type:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/4b8ee450-478e-45bf-9138-235acfed368d">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/4b8ee450-478e-45bf-9138-235acfed368d">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/20f0d6f4-9989-4339-8a9a-8bb540a6544d">
 
 * The majority of loans are from individual applicants, with a higher default rate (13.43%) compared to joint applications (9.72%), though individual loans dominate the dataset.
 
 ##### Home_ownership:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/063f0318-bb57-42bb-a3d2-5ff649eed3f4">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/063f0318-bb57-42bb-a3d2-5ff649eed3f4">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/cf3b05fd-f4ef-4810-b2d0-e51cb139c451">
 
 * Renters have the highest default rate (15.27%), suggesting that home ownership status influences loan default likelihood. Mortgage holders, despite having the largest loan count, show a lower default rate (11.49%), indicating more stability.
 
 ##### Purpose:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/8583914c-846d-4dc0-9432-def03af9f2d4">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/8583914c-846d-4dc0-9432-def03af9f2d4">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/6c292dd2-6231-47af-b042-27c3fed812be">
 
 * The plot shows that "Debt Consolidation" and "Credit Card" purposes have the highest number of non-default loans, with "Small Business" having the highest default percentage at 20.94%, followed by "Educational" at 19.39%.
 
 ##### Grade:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/b8e74989-c256-4b20-bdf7-3a2bc6a8320d">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/b8e74989-c256-4b20-bdf7-3a2bc6a8320d">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/1e138a8c-dfdc-472a-9427-a864ef066f16">
 
 * The default rate is highest for grade G at 44.18%, while grade A has the lowest default rate at 3.79%, indicating that lower credit grades have significantly higher default risks.
 
 ##### Term:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/93f39ac7-5737-447a-8a94-e5866c89a3dc">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/93f39ac7-5737-447a-8a94-e5866c89a3dc">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/f946fd74-13df-4787-97a2-07616c72791f">
 
 * The default rate is higher for loans with a 60-month term at 18.06%, compared to loans with a 36-month term, which have a default rate of 11.08%, indicating that longer-term loans are more likely to default.
 
 ##### Annual_income:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/d4e09f82-7d43-4cae-bfa6-6d54c132dc0a">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/d4e09f82-7d43-4cae-bfa6-6d54c132dc0a">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/b68e3b57-d4a3-439b-9b14-ce8a89473ef6">
 
 * The trend shows that as income increases, the percentage of defaults decreases. Specifically, the "Basic" income group has the highest default rate (15.48%), while the "Exclusive" income group has the lowest (10.38%). This suggests that higher income is associated with a lower likelihood of default.
 
 ### Employee_length:
 
-<img width="800" alt="" src="https://github.com/user-attachments/assets/9b3f8241-2b00-4f30-856e-ace83c7fdac7">
+<img width="500" alt="" src="https://github.com/user-attachments/assets/9b3f8241-2b00-4f30-856e-ace83c7fdac7">
 <img width="800" alt="" src="https://github.com/user-attachments/assets/f9b5d003-74a7-403c-af2a-98747b9172b5">
 
 * Employment length shows a similar distribution for defaults and non-defaults, indicating it may not significantly influence loan default rates
